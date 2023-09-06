@@ -1,0 +1,5 @@
+/Users/ludovichenko/learning/ns-ng-course/platforms/android/app/src/main/assets/app/runtime.js
+/Users/ludovichenko/learning/ns-ng-course/platforms/android/app/src/main/assets/app/vendor.f3a4f558d303ff9f2ddc.hot-update.js
+/Users/ludovichenko/learning/ns-ng-course/platforms/android/app/src/main/assets/app/runtime.f3a4f558d303ff9f2ddc.hot-update.js
+/Users/ludovichenko/learning/ns-ng-course/platforms/android/app/src/main/assets/app/bundle.js
+/Users/ludovichenko/learning/ns-ng-course/platforms/android/app/src/main/assets/app/vendor.js

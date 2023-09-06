@@ -1,0 +1,1 @@
+/Users/ludovichenko/learning/ns-ng-course/platforms/android/app/src/main/java
